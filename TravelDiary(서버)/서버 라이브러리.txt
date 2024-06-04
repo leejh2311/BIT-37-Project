@@ -1,0 +1,11 @@
+서버(자바)
+- 스프링 부트 프레임워크 사용
+- REST API 구현 과정에서 JSON 데이터 통신을 위해 json 라이브러리(org.json-20230618 사용)
+
+서버(자바)
+- Get: 데이터 획득
+- Hello: 서버 작동 확인용 GET 응답
+- login: 로그인
+- register: 회원가입
+- response: 일부 컨트롤러의 JSON 반환값 생성
+- Upload: 데이터 추가

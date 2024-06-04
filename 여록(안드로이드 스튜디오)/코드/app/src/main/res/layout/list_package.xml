@@ -1,0 +1,22 @@
+<!-- item_package.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/section_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/rounded_corner_rectangle"
+        android:scaleType="centerInside" />
+
+    <TextView
+        android:id="@+id/section_text"
+        android:layout_width="match_parent"
+        android:layout_height="165dp"
+        android:background="@drawable/rounded_corner_rectangle"
+        android:text="텍스트" />
+
+</LinearLayout>

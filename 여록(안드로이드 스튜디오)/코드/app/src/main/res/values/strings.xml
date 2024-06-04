@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">example</string>
+    <string name="title_home">Home</string>
+    <string name="title_list">List</string>
+    <string name="title_map">Map</string>
+    <string name="title_people">People</string>
+    <string name="title_search">Search</string>
+    <string name="textview">TextView</string>
+    <string name="pay">총경비</string>
+    <string name="people_count">인원 수</string>
+    <string name="travel_place">여행 위치</string>
+    <string name="date">날짜</string>
+    <string name="map">지도</string>
+
+    <string name="people_friend">친구</string>
+    <string name="ID">아이디</string>
+    <string name="PW">비밀번호</string>
+    <string name="PW_match">비밀번호 확인</string>
+    <string name="male">남성</string>
+    <string name="female">여성</string>
+    <string name="Phone">전화번호</string>
+    <string name="email">이메일</string>
+    <string name="address">주소</string>
+    <string name="membership">회원가입</string>
+    <string name="add_mem">회원가입</string>
+    <string name="people_information" />
+    <string name="people_friend_list" />
+    <string name="travel_record">여행기록</string>
+    <string name="time_line">타임라인</string>>
+
+    <string-array name="people_list">
+        <item>Example 1</item>
+        <item>Example 2</item>
+        <item>Example 3</item>
+        <item>Example 4</item>
+        <item>Example 5</item>
+
+    </string-array>
+</resources>
